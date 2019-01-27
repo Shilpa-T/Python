@@ -1,0 +1,3 @@
+"""
+MultiplyText function
+"""

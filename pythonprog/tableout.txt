@@ -1,0 +1,4 @@
+Table	Sourcedata	Targetdata	Delta
+xtable	4	4	0
+ytable	5	4	1
+ztable	5	5	0
